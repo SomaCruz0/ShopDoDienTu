@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebDienTu.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebDienTu.Areas.Admin.Controllers
 {
@@ -13,9 +14,9 @@ namespace WebDienTu.Areas.Admin.Controllers
         {
             _dataContext = context;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _dataContext.HangHoas.OrderByDescending(p => p.MaHh).Include(p => p.MaLoaiNavigation).ToListAsync());
         }
     }
 }

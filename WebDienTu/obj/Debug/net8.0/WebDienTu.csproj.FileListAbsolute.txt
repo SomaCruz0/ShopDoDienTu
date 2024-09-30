@@ -255,3 +255,4 @@ D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\refint\WebDienTu.dll
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\WebDienTu.pdb
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\WebDienTu.genruntimeconfig.cache
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\ref\WebDienTu.dll
+D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\WebDienTu.sourcelink.json

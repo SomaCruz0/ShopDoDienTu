@@ -53,14 +53,21 @@
                                     <h4>Giá:</h4>
                                     <p>@Model.DonGia</p>
                                 </div>
-                                <div class="quantity">
-                                    <h4>Số lượng:</h4>
-                                    <div class="qty">
-                                        <button class="btn-minus"><i class="fa fa-minus"></i></button>
-                                        <input type="text" value="1">
-                                        <button class="btn-plus"><i class="fa fa-plus"></i></button>
+                                <form asp-action="AddToCart" asp-controller="GioHang" asp-route-id="@Model.MaHh">
+                                    <div class="quantity">
+                                        <h4>Số lượng:</h4>
+                                        <div class="qty">
+                                            <button class="btn-minus" type="button"><i class="fa fa-minus"></i></button>
+                                            <input type="text" value="1" name="quantity">
+                                            <button class="btn-plus" type="button"><i class="fa fa-plus"></i></button>
+                                        </div>
                                     </div>
-                                </div>
+
+                                    <div class="action">
+                                        <button class="btn" href="#"><i class="fa fa-shopping-cart"></i>Thêm vào giỏ</button>
+                                        <button class="btn" href="#"><i class="fa fa-shopping-bag"></i>Mua ngay</button>
+                                    </div>
+                                </form>
                                 @* <div class="p-size">
                                 <h4>Size:</h4>
                                 <div class="btn-group btn-group-sm">
@@ -78,10 +85,6 @@
                                 <button type="button" class="btn">Blue</button>
                                 </div>
                                 </div> *@
-                                <div class="action">
-                                    <a class="btn" href="#"><i class="fa fa-shopping-cart"></i>Thêm vào giỏ</a>
-                                    <a class="btn" href="#"><i class="fa fa-shopping-bag"></i>Mua ngay</a>
-                                </div>
                             </div>
                         </div>
                     </div>
