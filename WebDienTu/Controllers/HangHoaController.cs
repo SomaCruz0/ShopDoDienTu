@@ -73,7 +73,7 @@ namespace WebDienTu.Controllers
                 Hinh = data.Hinh ?? string.Empty,
                 MoTaNgan = data.MoTaDonVi ?? string.Empty,
                 TenLoai = data.MaLoaiNavigation.TenLoai,
-                SoLuongTon = data.SoLuong,
+                SoLuongTon = 10,
                 DiemDanhGia = 5,
             };
             return View(result);
