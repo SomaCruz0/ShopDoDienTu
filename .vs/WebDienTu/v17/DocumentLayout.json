@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ShopDoDienTu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\shopdodientu\\webdientu\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\shopdodientu\\webdientu\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\shopdodientu\\webdientu\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\shopdodientu\\webdientu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\shopdodientu\\webdientu\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\shopdodientu\\webdientu\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\views\\home\\pagenotfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\shopdodientu\\webdientu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\ShopDoDienTu\\WebDienTu\\Views\\HangHoa\\Search.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Views\\HangHoa\\Search.cshtml",
+              "ToolTip": "D:\\ShopDoDienTu\\WebDienTu\\Views\\HangHoa\\Search.cshtml",
+              "RelativeToolTip": "WebDienTu\\Views\\HangHoa\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:11:02.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ShopDoDienTu\\WebDienTu\\Views\\GioHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Views\\GioHang\\Index.cshtml",
+              "ToolTip": "D:\\ShopDoDienTu\\WebDienTu\\Views\\GioHang\\Index.cshtml",
+              "RelativeToolTip": "WebDienTu\\Views\\GioHang\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:06:59.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ShopDoDienTu\\WebDienTu\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "D:\\ShopDoDienTu\\WebDienTu\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "WebDienTu\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:05:42.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ShopDoDienTu\\WebDienTu\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ShopDoDienTu\\WebDienTu\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebDienTu\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:05:40.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ShopDoDienTu\\WebDienTu\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ShopDoDienTu\\WebDienTu\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebDienTu\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:05:39.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageNotFound.cshtml",
+              "DocumentMoniker": "D:\\ShopDoDienTu\\WebDienTu\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Views\\Home\\PageNotFound.cshtml",
+              "ToolTip": "D:\\ShopDoDienTu\\WebDienTu\\Views\\Home\\PageNotFound.cshtml",
+              "RelativeToolTip": "WebDienTu\\Views\\Home\\PageNotFound.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:05:36.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ShopDoDienTu\\WebDienTu\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ShopDoDienTu\\WebDienTu\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebDienTu\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T10:05:34.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 33,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
