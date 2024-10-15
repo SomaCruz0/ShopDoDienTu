@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebDienTu.Data;
 using WebDienTu.Helpers;
 using WebDienTu.ViewModels;
@@ -13,8 +14,7 @@ namespace WebDienTu.Controllers
         {
             db = context;
         }
-        const string CART_KEY = "MYCART";
-        public List<GioHang> Cart => HttpContext.Session.Get<List<GioHang>>(CART_KEY) ?? new List<GioHang>();
+        public List<GioHang> Cart => HttpContext.Session.Get<List<GioHang>>(MySetting.CART_KEY) ?? new List<GioHang>();
         public IActionResult Index()
         {
             return View(Cart);
@@ -46,7 +46,7 @@ namespace WebDienTu.Controllers
             {
                 item.SoLuong += quantity;
             }
-            HttpContext.Session.Set(CART_KEY, gioHang);
+            HttpContext.Session.Set(MySetting.CART_KEY, gioHang);
             return RedirectToAction("Index");
         }
         public IActionResult RemoteCart(int id)
@@ -56,10 +56,80 @@ namespace WebDienTu.Controllers
             if(item != null)
             {
                 gioHang.Remove(item);
-                HttpContext.Session.Set(CART_KEY, gioHang);
+                HttpContext.Session.Set(MySetting.CART_KEY, gioHang);
             }
 
             return RedirectToAction("Index");
+        }
+        [Authorize]
+        [HttpGet]
+        public IActionResult Checkout()
+        {
+            if (Cart.Count == 0)
+            {
+                return Redirect("/");
+            }
+
+            return View(Cart);
+        }
+        [Authorize]
+        [HttpPost]
+        public IActionResult Checkout(CheckoutVM model)
+        {
+            if (ModelState.IsValid)
+            {
+                var customerId = HttpContext.User.Claims.SingleOrDefault(p => p.Type == MySetting.CLAIM_CUSTOMERID).Value;
+                var khachHang = new KhachHang();
+                if (model.GiongKhachHang)
+                {
+                    khachHang = db.KhachHangs.SingleOrDefault(kh => kh.MaKh == customerId);
+                }
+
+                var hoadon = new HoaDon
+                {
+                    MaKh = customerId,
+                    HoTen = model.HoTen ?? khachHang.HoTen,
+                    DiaChi = model.DiaChi ?? khachHang.DiaChi,
+                    DienThoai = model.DienThoai ?? khachHang.DienThoai,
+                    NgayDat = DateTime.Now,
+                    CachThanhToan = "COD",
+                    CachVanChuyen = "GRAB",
+                    MaTrangThai = 0,
+                    GhiChu = model.GhiChu
+                };
+
+                db.Database.BeginTransaction();
+                try
+                {
+                    db.Database.CommitTransaction();
+                    db.Add(hoadon);
+                    db.SaveChanges();
+
+                    var cthds = new List<ChiTietHd>();
+                    foreach (var item in Cart)
+                    {
+                        cthds.Add(new ChiTietHd
+                        {
+                            MaHd = hoadon.MaHd,
+                            SoLuong = item.SoLuong,
+                            DonGia = item.DonGia,
+                            MaHh = item.MaHh,
+                            GiamGia = 0
+                        });
+                    }
+                    db.AddRange(cthds);
+                    db.SaveChanges();
+
+                    HttpContext.Session.Set<List<GioHang>>(MySetting.CART_KEY, new List<GioHang>());
+
+                    return View("Success");
+                }
+                catch
+                {
+                    db.Database.RollbackTransaction();
+                }
+            }
+            return View(Cart);
         }
     }
 }

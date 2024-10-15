@@ -10,7 +10,7 @@
     <meta content="eCommerce HTML Template Free Download" name="description">
 
     <!-- Favicon -->
-    <link href="~/Hinh/icons/logo.png" rel="icon">
+    <link href="~/Hinh/icons/Logo.png" rel="icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400|Source+Code+Pro:700,900&display=swap" rel="stylesheet">
@@ -55,27 +55,24 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="/" class="nav-item nav-link active">Home</a>
-                            <a asp-controller="HangHoa" asp-action="Index" class="nav-item nav-link">Products</a>
-                            <a href="product-detail.html" class="nav-item nav-link">Product Detail</a>
-                            <a asp-controller="GioHang" asp-action="Index" class="nav-item nav-link">Cart</a>
-                            <a href="checkout.html" class="nav-item nav-link">Checkout</a>
-                            <a href="my-account.html" class="nav-item nav-link">My Account</a>
+                            <a href="/" class="nav-item nav-link active">Trang chủ</a>
+                            <a asp-controller="HangHoa" asp-action="Index" class="nav-item nav-link">Sản phẩm</a>
+                            <a asp-controller="KhachHang" asp-action="Profile" class="nav-item nav-link">Tài khoản</a>
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">More Pages</a>
                                 <div class="dropdown-menu">
-                                    <a href="wishlist.html" class="dropdown-item">Wishlist</a>
-                                    <a href="login.html" class="dropdown-item">Login & Register</a>
-                                    <a href="contact.html" class="dropdown-item">Contact Us</a>
+                                    <a href="wishlist.html" class="dropdown-item">Yêu thích</a>
+                                    <a href="login.html" class="dropdown-item">Đăng nhập & đăng ký</a>
+                                    <a href="contact.html" class="dropdown-item">Liên hệ</a>
                                 </div>
                             </div>
                         </div>
                         <div class="navbar-nav ml-auto">
                             <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">User Account</a>
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Tài khoản</a>
                                 <div class="dropdown-menu">
-                                    <a href="#" class="dropdown-item">Login</a>
-                                    <a href="#" class="dropdown-item">Register</a>
+                                    <a asp-controller="KhachHang" asp-action="DangKy" class="dropdown-item">Đăng ký</a>
+                                    <a asp-controller="KhachHang" asp-action="DangNhap" class="dropdown-item">Đăng nhập</a>
                                 </div>
                             </div>
                         </div>
@@ -90,8 +87,8 @@
                 <div class="row align-items-center">
                     <div class="col-md-3">
                         <div class="logo">
-                            <a href="index.html">
-                                <img src="~/Hinh/icons/logo.png" alt="Logo">
+                            <a href="/">
+                                <img src="~/Hinh/icons/logo1.png" alt="Logo">
                             </a>
                         </div>
                     </div>
@@ -105,14 +102,7 @@
                     </div>
                     <div class="col-md-3">
                         <div class="user">
-                            <a href="wishlist.html" class="btn wishlist">
-                                <i class="fa fa-heart"></i>
-                                <span>(0)</span>
-                            </a>
-                            <a asp-controller="GioHang" asp-action="Index" class="btn cart">
-                                <i class="fa fa-shopping-cart"></i>
-                                <span>(0)</span>
-                            </a>
+                            @await Component.InvokeAsync("GioHang")
                         </div>
                     </div>
                 </div>

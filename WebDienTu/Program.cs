@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using WebDienTu.Data;
+using WebDienTu.Helpers;
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +22,14 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options =>
+{
+    options.LoginPath = "/KhachHang/DangNhap";
+    options.AccessDeniedPath = "/AccessDenied";
+});
+
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -37,6 +47,8 @@ app.UseRouting();
 
 app.UseSession();
 
+app.UseAuthentication();
+
 app.UseAuthorization();
 
 app.MapControllerRoute(
@@ -44,7 +56,7 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
-    name: "Areas",
-    pattern: "{area:exists}/{controller=Product}/{action=Index}/{id?}");
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

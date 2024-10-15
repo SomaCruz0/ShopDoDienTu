@@ -1,0 +1,123 @@
+﻿@model WebDienTu.ViewModels.KhachHangVM
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<!-- My Account Start -->
+<div class="my-account">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="nav flex-column nav-pills" role="tablist" aria-orientation="vertical">
+                    <a class="nav-link active" id="account-nav" data-toggle="pill" href="#account-tab" role="tab"><i class="fa fa-user"></i>Thông tin tài khoản</a>
+                    <a class="nav-link" id="orders-nav" data-toggle="pill" href="#orders-tab" role="tab"><i class="fa fa-shopping-bag"></i>Đơn hàng</a>
+                    <a class="nav-link" id="address-nav" data-toggle="pill" href="#address-tab" role="tab"><i class="fa fa-map-marker-alt"></i>Địa chỉ</a>
+                    <a asp-action="DangXuat" class="nav-link"><i class="fa fa-sign-out-alt"></i>Đăng xuất</a>
+                </div>
+            </div>
+            <div class="col-md-9">
+                <div class="tab-content">
+                    <div class="tab-pane fade show active" id="account-tab" role="tabpanel" aria-labelledby="account-nav">
+                        <h4>Thông tin tài khoản</h4>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <input class="form-control" type="text" placeholder="@Model.HoTen">
+                            </div>
+                            <div class="col-md-6">
+                                <input class="form-control" type="text" placeholder="@Model.MaKh">
+                            </div>
+                            <div class="col-md-6">
+                                <input class="form-control" type="text" placeholder="@Model.DienThoai">
+                            </div>
+                            <div class="col-md-6">
+                                <input class="form-control" type="text" placeholder="@Model.Email">
+                            </div>
+                            <div class="col-md-12">
+                                <input class="form-control" type="text" placeholder="@Model.DiaChi">
+                            </div>
+                            <div class="col-md-12">
+                                <button class="btn">Cập nhật</button>
+                                <br><br>
+                            </div>
+                        </div>
+                        <h4>Đổi mật khẩu</h4>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <input class="form-control" type="password" placeholder="Mật khẩu hiện tại">
+                            </div>
+                            <div class="col-md-6">
+                                <input class="form-control" type="text" placeholder="Mật khẩu mới">
+                            </div>
+                            <div class="col-md-6">
+                                <input class="form-control" type="text" placeholder="Nhập lại mật khẩu">
+                            </div>
+                            <div class="col-md-12">
+                                <button class="btn">Lưu thay đổi</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="orders-tab" role="tabpanel" aria-labelledby="orders-nav">
+                        <div class="table-responsive">
+                            <table class="table table-bordered">
+                                <thead class="thead-dark">
+                                    <tr>
+                                        <th>No</th>
+                                        <th>Mã đơn hàng</th>
+                                        <th>Ngày đặt</th>
+                                        <th>Giá</th>
+                                        <th>Trạng thái</th>
+                                        <th>Hành động</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>Product Name</td>
+                                        <td>01 Jan 2020</td>
+                                        <td>$99</td>
+                                        <td>Approved</td>
+                                        <td><button class="btn">View</button></td>
+                                    </tr>
+                                    <tr>
+                                        <td>2</td>
+                                        <td>Product Name</td>
+                                        <td>01 Jan 2020</td>
+                                        <td>$99</td>
+                                        <td>Approved</td>
+                                        <td><button class="btn">View</button></td>
+                                    </tr>
+                                    <tr>
+                                        <td>3</td>
+                                        <td>Product Name</td>
+                                        <td>01 Jan 2020</td>
+                                        <td>$99</td>
+                                        <td>Approved</td>
+                                        <td><button class="btn">View</button></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="address-tab" role="tabpanel" aria-labelledby="address-nav">
+                        <h4>Address</h4>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h5>Payment Address</h5>
+                                <p>123 Payment Street, Los Angeles, CA</p>
+                                <p>Mobile: 012-345-6789</p>
+                                <button class="btn">Edit Address</button>
+                            </div>
+                            <div class="col-md-6">
+                                <h5>Shipping Address</h5>
+                                <p>123 Shipping Street, Los Angeles, CA</p>
+                                <p>Mobile: 012-345-6789</p>
+                                <button class="btn">Edit Address</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- My Account End -->
