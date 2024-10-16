@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using WebDienTu.Data;
 using WebDienTu.Helpers;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using WebDienTu.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,7 @@ builder.Services.AddDbContext<ShopDienTuContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("WebDienTu"));
 });
+
 
 //session
 builder.Services.AddDistributedMemoryCache();

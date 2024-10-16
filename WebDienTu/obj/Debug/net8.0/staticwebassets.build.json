@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g+L2z12UHVWBd0CyQS5keBpNaaHT8tQzbkkj6apC2OY=",
+  "Hash": "7c9xOFaGjOdyUx5QjzggZQJoUh+EeT9Jfr3TNSvqCLM=",
   "Source": "WebDienTu",
   "BasePath": "_content/WebDienTu",
   "Mode": "Default",
@@ -2352,6 +2352,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Hinh\\HangHoa\\To.gif"
+    },
+    {
+      "Identity": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\tv1.jpg",
+      "SourceId": "WebDienTu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\",
+      "BasePath": "_content/WebDienTu",
+      "RelativePath": "Hinh/HangHoa/tv1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\HangHoa\\tv1.jpg"
     },
     {
       "Identity": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Accept.png",

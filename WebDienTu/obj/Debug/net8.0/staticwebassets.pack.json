@@ -461,6 +461,10 @@
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat9.jpg"
     },
     {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\tv1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tv1.jpg"
+    },
+    {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\Author.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Author.jpg"
     },

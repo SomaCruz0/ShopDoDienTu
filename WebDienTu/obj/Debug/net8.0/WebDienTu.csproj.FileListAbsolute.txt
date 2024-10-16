@@ -260,3 +260,6 @@ D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.Caching.
 D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\X.PagedList.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\WebDienTu.MvcApplicationPartsAssemblyInfo.cs

@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\study\\CDIO\\WebDienTu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\data\\loai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\homeadmin\\themsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\homeadmin\\themsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,53 +47,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DanhMucSanPham.cshtml",
-              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Title": "ThemSanPham.cshtml",
+              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
+              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
+              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T18:56:45.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Loai.cs",
-              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Data\\Loai.cs",
-              "RelativeDocumentMoniker": "WebDienTu\\Data\\Loai.cs",
-              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Data\\Loai.cs",
-              "RelativeToolTip": "WebDienTu\\Data\\Loai.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T18:40:46.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T18:20:57.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeAdminController.cs",
-              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T18:17:53.776Z",
+              "WhenOpened": "2024-10-16T15:29:44.333Z",
               "EditorCaption": ""
             }
           ]

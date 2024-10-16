@@ -1,0 +1,98 @@
+﻿@using WebDienTu.Data;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<HangHoa>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "DanhSachSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Sản phẩm</h1>
+
+<p>
+    <a asp-action="ThemSanPham">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Tên hàng hóa
+            </th>
+            <th>
+                Mô tả ngắn
+            </th>
+            <th>
+                Giá
+            </th>
+            <th>
+                Ngày sản xuất
+            </th>
+            <th>
+                Giảm giá
+            </th>
+            <th>
+                Số lần xem
+            </th>
+            <th>
+                Mã loại
+            </th>
+            <th>
+                Mã nhà cung cấp
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            string @cls;
+        }
+        @foreach (var item in Model)
+        {
+            i = i + 1;
+            cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+            <tr class="@cls">
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenHh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MoTaDonVi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DonGia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NgaySx)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GiamGia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SoLanXem)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaLoai)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaNcc)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.MaHh">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.MaHh">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.MaHh">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.PagedListPager(Model, page => Url.Action("DanhSachSanPham", new { page = page }), new PagedListRenderOptions
+{
+    LiElementClasses = new List<string> { "page-item" },
+    PageClasses = new List<string> { "page-link"
+ }
+})

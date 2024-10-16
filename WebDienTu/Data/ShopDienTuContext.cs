@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using Microsoft.EntityFrameworkCore;
 
 namespace WebDienTu.Data;
@@ -13,6 +14,13 @@ public partial class ShopDienTuContext : DbContext
     public ShopDienTuContext(DbContextOptions<ShopDienTuContext> options)
         : base(options)
     {
+    }
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder
+            .UseSqlServer(
+                "Data Source=LAPTOP-UTAT7GTM\\SQLEXPRESS;Initial Catalog=ShopDienTu;Integrated Security=True;Encrypt=True;Trust Server Certificate=True",
+                options => options.EnableRetryOnFailure());
     }
 
     public virtual DbSet<BanBe> BanBes { get; set; }
