@@ -81,13 +81,41 @@ namespace WebDienTu.Areas.Admin.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult ThemSanPham(HangHoa sanpham)
         {
-            if (ModelState.IsValid)
-            {
-                db.HangHoas.Add(sanpham);
-                db.SaveChanges();
-                return RedirectToAction("DanhSachSanPham");
-            }
+            db.HangHoas.Add(sanpham);
+            db.SaveChanges();
+            return RedirectToAction("DanhSachSanPham");
+        }
+
+        [Route("SuaSanPham")]
+        [HttpGet]
+        public IActionResult SuaSanPham(int MaSP)
+        {
+            ViewBag.MaLoai = new SelectList(db.Loais.ToList(), "MaLoai", "TenLoai");
+            ViewBag.MaNCC = new SelectList(db.NhaCungCaps.ToList(), "MaNcc", "TenCongTy");
+            var sanpham = db.HangHoas.Find(MaSP);
             return View(sanpham);
+        }
+        [Route("SuaSanPham")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaSanPham(HangHoa sanpham)
+        {
+            db.Entry(sanpham).State = EntityState.Modified;
+            db.SaveChanges();
+            return RedirectToAction("DanhSachSanPham","HomeAdmin");
+        }
+
+        [Route("XoaSanPham")]
+        [HttpGet]
+        public IActionResult XoaSanPham(int MaSP)
+        {
+            TempData["Message"] = "";
+
+            db.Remove(db.HangHoas.Find(MaSP));
+            db.SaveChanges();
+
+            TempData["Message"] = "Sản phẩm đã được xóa";
+            return RedirectToAction("DanhSachSanPham", "HomeAdmin");
         }
         #endregion
     }

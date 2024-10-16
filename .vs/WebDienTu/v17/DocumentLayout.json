@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\study\\CDIO\\WebDienTu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\homeadmin\\themsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\homeadmin\\themsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\homeadmin\\danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\homeadmin\\danhsachsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,15 +54,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ThemSanPham.cshtml",
-              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
-              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
-              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
-              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABHAAAA",
+              "DocumentIndex": 1,
+              "Title": "DanhSachSanPham.cshtml",
+              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhSachSanPham.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhSachSanPham.cshtml",
+              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhSachSanPham.cshtml",
+              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhSachSanPham.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T15:29:44.333Z",
+              "WhenOpened": "2024-10-16T16:18:38.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:41:09.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAG4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:39:19.54Z",
               "EditorCaption": ""
             }
           ]
