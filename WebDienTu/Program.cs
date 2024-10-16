@@ -1,5 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using WebDienTu.Data;
+using WebDienTu.Helpers;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using WebDienTu.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +13,7 @@ builder.Services.AddDbContext<ShopDienTuContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("WebDienTu"));
 });
 
+
 //session
 builder.Services.AddDistributedMemoryCache();
 
@@ -19,6 +23,14 @@ builder.Services.AddSession(options =>
     options.Cookie.HttpOnly = true;
     options.Cookie.IsEssential = true;
 });
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options =>
+{
+    options.LoginPath = "/KhachHang/DangNhap";
+    options.AccessDeniedPath = "/AccessDenied";
+});
+
+builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 var app = builder.Build();
 
@@ -37,6 +49,8 @@ app.UseRouting();
 
 app.UseSession();
 
+app.UseAuthentication();
+
 app.UseAuthorization();
 
 app.MapControllerRoute(
@@ -44,7 +58,7 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
-    name: "Areas",
-    pattern: "{area:exists}/{controller=Product}/{action=Index}/{id?}");
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

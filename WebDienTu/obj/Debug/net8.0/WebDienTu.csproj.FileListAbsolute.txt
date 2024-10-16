@@ -1,8 +1,5 @@
 D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\appsettings.Development.json
 D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\appsettings.json
-D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Areas\Admin\Data\package-lock.json
-D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Areas\Admin\Data\package.json
-D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Areas\Admin\Data\vendor\fontawesome-free\package.json
 D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\WebDienTu.staticwebassets.runtime.json
 D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\WebDienTu.exe
 D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\WebDienTu.deps.json
@@ -245,7 +242,6 @@ D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\staticwebassets\msbuild.build
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebDienTu.props
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebDienTu.props
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\staticwebassets.pack.json
-D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\scopedcss\bundle\WebDienTu.styles.css
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\scopedcss\projectbundle\WebDienTu.bundle.scp.css
@@ -256,3 +252,14 @@ D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\WebDienTu.pdb
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\WebDienTu.genruntimeconfig.cache
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\ref\WebDienTu.dll
 D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\WebDienTu.sourcelink.json
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\AutoMapper.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\X.PagedList.dll
+D:\study\CDIO\WebDienTu\WebDienTu\bin\Debug\net8.0\X.PagedList.Mvc.Core.dll
+D:\study\CDIO\WebDienTu\WebDienTu\obj\Debug\net8.0\WebDienTu.MvcApplicationPartsAssemblyInfo.cs

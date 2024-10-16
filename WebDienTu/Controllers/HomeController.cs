@@ -1,21 +1,25 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using WebDienTu.Data;
 using WebDienTu.Models;
 
 namespace WebDienTu.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly ShopDienTuContext db; 
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, ShopDienTuContext context)
         {
             _logger = logger;
+            db = context;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var products = db.HangHoas.ToList();
+            return View(products);
         }
 
         [Route("/404")] 

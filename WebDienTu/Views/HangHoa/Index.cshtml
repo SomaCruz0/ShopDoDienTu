@@ -9,9 +9,9 @@
     <div class="breadcrumb-wrap">
         <div class="container-fluid">
             <ul class="breadcrumb">
-                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item"><a href="/">Home</a></li>
                 <li class="breadcrumb-item"><a href="#">Products</a></li>
-                <li class="breadcrumb-item active">Product List</li>
+                <li class="breadcrumb-item active">Danh sách hàng hóa</li>
             </ul>
         </div>
     </div>
@@ -23,8 +23,10 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="product-search">
-                        <input type="email" value="Search">
-                        <button><i class="fa fa-search"></i></button>
+                        <form asp-action="Search" asp-controller="HangHoa">
+                            <input id="searchText" type="text" placeholder="Search" name="query">
+                            <button id="searchButton"><i class="fa fa-search"></i></button>
+                        </form>
                     </div>
                 </div>
                 <div class="col-md-4">
