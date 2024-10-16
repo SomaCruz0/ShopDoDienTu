@@ -1,0 +1,80 @@
+﻿@using WebDienTu.Data;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<HoaDon>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhSachHoaDon";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DanhSachHoaDon</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr class="table-warning">
+            <th>
+                Ngày đặt
+            </th>
+            <th>
+                Khách hàng
+            </th>
+            <th>
+                Điện thoại
+            </th>
+            <th>
+                Mã nhân viên
+            </th>
+            <th>
+                Trạng thái
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int i = 0;
+            string @cls;
+        }
+        @foreach (var item in Model)
+        {
+            i = i + 1;
+            cls = "table-success";
+            if (i % 2 == 0)
+            {
+                cls = "table-primary";
+            }
+        <tr class="@cls">
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayDat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DienThoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaNv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaTrangThai)
+            </td>
+            <td>
+                <a asp-action="SuaHoaDon" asp-route-id="@item.MaHd">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaHd">Details</a> |
+                <a asp-action="XoaHoaDon" asp-route-id="@item.MaHd">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@Html.PagedListPager(Model, page => Url.Action("DanhSachHoaDon", new { page = page }), new PagedListRenderOptions
+{
+    LiElementClasses = new List<string> { "page-item" },
+    PageClasses = new List<string> { "page-link"
+ }
+})

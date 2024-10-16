@@ -22,7 +22,7 @@ namespace WebDienTu.Areas.Admin.Controllers
             return View();
         }
 
-        #region DanhMuc
+        #region Danh Mục
         [Route("danhmucsanpham")]
         public IActionResult DanhMucSanPham(int? page)
         {
@@ -52,6 +52,36 @@ namespace WebDienTu.Areas.Admin.Controllers
                 return RedirectToAction("DanhMucSanPham");
             }
             return View(danhmuc);
+        }
+
+        [Route("SuaDanhMuc")]
+        [HttpGet]
+        public IActionResult SuaDanhMuc(int MaDM)
+        {
+            var danhmuc = db.Loais.Find(MaDM);
+            return View(danhmuc);
+        }
+        [Route("SuaDanhMuc")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaDanhMuc(Loai danhmuc)
+        {
+            db.Entry(danhmuc).State = EntityState.Modified;
+            db.SaveChanges();
+            return RedirectToAction("DanhMucSanPham", "HomeAdmin");
+        }
+
+        [Route("XoaDanhMuc")]
+        [HttpGet]
+        public IActionResult XoaDanhMuc(int MaDM)
+        {
+            TempData["Message"] = "";
+
+            db.Remove(db.Loais.Find(MaDM));
+            db.SaveChanges();
+
+            TempData["Message"] = "Sản phẩm đã được xóa";
+            return RedirectToAction("DanhMucSanPham", "HomeAdmin");
         }
         #endregion
 
@@ -117,6 +147,190 @@ namespace WebDienTu.Areas.Admin.Controllers
             TempData["Message"] = "Sản phẩm đã được xóa";
             return RedirectToAction("DanhSachSanPham", "HomeAdmin");
         }
+        #endregion
+
+
+        #region Khách hàng
+        [Route("DanhSachKhachHang")]
+        public IActionResult DanhSachKhachHang(int? page)
+        {
+            int pageSize = 10;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstsanpham = db.KhachHangs.AsNoTracking().OrderBy(x => x.MaKh);
+            PagedList<KhachHang> lst = new PagedList<KhachHang>(lstsanpham, pageNumber, pageSize);
+            var lstSanPham = db.KhachHangs.ToList();
+            return View(lst);
+        }
+
+        [Route("ThemKhachHang")]
+        [HttpGet]
+        public IActionResult ThemKhachHang()
+        {
+            return View();
+        }
+        [Route("ThemKhachHang")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult ThemKhachHang(KhachHang kh)
+        {
+            db.KhachHangs.Add(kh);
+            db.SaveChanges();
+            return RedirectToAction("DanhSachKhachHang");
+        }
+
+        [Route("SuaKhachHang")]
+        [HttpGet]
+        public IActionResult SuaKhachHang(string MaKH)
+        {
+            var khachhang = db.KhachHangs.Find(MaKH);
+            return View(khachhang);
+        }
+        [Route("SuaKhachHang")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaKhachHang(KhachHang kh)
+        {
+            db.Entry(kh).State = EntityState.Modified;
+            db.SaveChanges();
+            return RedirectToAction("DanhSachKhachHang", "HomeAdmin");
+        }
+
+        [Route("XoaKhachHang")]
+        [HttpGet]
+        public IActionResult XoaKhachHang(string MaSP)
+        {
+            TempData["Message"] = "";
+
+            db.Remove(db.KhachHangs.Find(MaSP));
+            db.SaveChanges();
+
+            TempData["Message"] = "Khách hàng đã được xóa";
+            return RedirectToAction("DanhSachKhachHang", "HomeAdmin");
+        }
+        #endregion
+
+
+        #region Nhân viên
+        [Route("DanhSachNhanVien")]
+        public IActionResult DanhSachNhanVien(int? page)
+        {
+            int pageSize = 10;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstsanpham = db.NhanViens.AsNoTracking().OrderBy(x => x.MaNv);
+            PagedList<NhanVien> lst = new PagedList<NhanVien>(lstsanpham, pageNumber, pageSize);
+            var lstSanPham = db.NhanViens.ToList();
+            return View(lst);
+        }
+
+        [Route("ThemNhanVien")]
+        [HttpGet]
+        public IActionResult ThemNhanVien()
+        {
+            return View();
+        }
+        [Route("ThemNhanVien")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult ThemNhanVien(NhanVien nhanvien)
+        {
+            db.NhanViens.Add(nhanvien);
+            db.SaveChanges();
+            return RedirectToAction("DanhSachNhanVien");
+        }
+
+        [Route("SuaNhanVien")]
+        [HttpGet]
+        public IActionResult SuaNhanVien(string MaNV)
+        {
+            var nv = db.NhanViens.Find(MaNV);
+            return View(nv);
+        }
+        [Route("SuaNhanVien")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaNhanVien(NhanVien nhanvien)
+        {
+            db.Entry(nhanvien).State = EntityState.Modified;
+            db.SaveChanges();
+            return RedirectToAction("DanhSachNhanVien", "HomeAdmin");
+        }
+
+        [Route("XoaNhanVien")]
+        [HttpGet]
+        public IActionResult XoaNhanVien(string MaNV)
+        {
+            TempData["Message"] = "";
+
+            db.Remove(db.NhanViens.Find(MaNV));
+            db.SaveChanges();
+
+            TempData["Message"] = "Nhân viên đã được xóa";
+            return RedirectToAction("DanhSachNhanVien", "HomeAdmin");
+        }
+        #endregion
+
+
+        #region Hóa đơn
+        [Route("DanhSachHoaDon")]
+        public IActionResult DanhSachHoaDon(int? page)
+        {
+            int pageSize = 10;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstsanpham = db.HoaDons.AsNoTracking().OrderBy(x => x.MaHd);
+            PagedList<HoaDon> lst = new PagedList<HoaDon>(lstsanpham, pageNumber, pageSize);
+            var lstSanPham = db.HoaDons.ToList();
+            return View(lst);
+        }
+
+
+        [Route("SuaHoaDon")]
+        [HttpGet]
+        public IActionResult SuaHoaDon(int HoaDon)
+        {
+            ViewBag.MaKH = new SelectList(db.KhachHangs.ToList(), "MaKh", "HoTen");
+            ViewBag.MaTrangThai = new SelectList(db.TrangThais.ToList(), "MaTrangThai", "TenTrangThai");
+            ViewBag.MaNhanVien = new SelectList(db.NhanViens.ToList(), "MaNV", "HoTen");
+            var sanpham = db.HoaDons.Find(HoaDon);
+            return View(sanpham);
+        }
+        [Route("SuaHoaDon")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaHoaDon(HoaDon hd)
+        {
+            db.Entry(hd).State = EntityState.Modified;
+            db.SaveChanges();
+            return RedirectToAction("DanhSachHoaDon", "HomeAdmin");
+        }
+
+        [Route("XoaHoaDon")]
+        [HttpGet]
+        public IActionResult XoaHoaDon(int MaHD)
+        {
+            TempData["Message"] = "";
+
+            db.Remove(db.HoaDons.Find(MaHD));
+            db.SaveChanges();
+
+            TempData["Message"] = "Hóa đơn đã được xóa";
+            return RedirectToAction("DanhSachHoaDon", "HomeAdmin");
+        }
+        #endregion
+
+        #region Chi tiết hóa đơn
+        [Route("DSCTHD")]
+        public IActionResult DSCTHD(int? page)
+        {
+            int pageSize = 10;
+            int pageNumber = page == null || page < 0 ? 1 : page.Value;
+            var lstsanpham = db.ChiTietHds.AsNoTracking().OrderBy(x => x.MaCt);
+            PagedList<ChiTietHd> lst = new PagedList<ChiTietHd>(lstsanpham, pageNumber, pageSize);
+            var lstSanPham = db.ChiTietHds.ToList();
+            return View(lst);
+        }
+
+
+        
         #endregion
     }
 }

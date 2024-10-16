@@ -1,31 +1,33 @@
 ﻿@using WebDienTu.Data;
 @using X.PagedList.Mvc.Core;
-@model X.PagedList.IPagedList<Loai>
+@model X.PagedList.IPagedList<NhanVien>
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 @{
-    ViewData["Title"] = "DanhMucSanPham";
+    ViewData["Title"] = "DanhSachNhanVien";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
 
-<h1>Danh mục</h1>
+<h1>DanhSachNhanVien</h1>
 
 <p>
-    <a asp-action="ThemDanhMuc">Create New</a>
+    <a asp-action="ThemNhanVien">Create New</a>
 </p>
+
+<p>@TempData["Message"]</p>
 <table class="table">
     <thead>
         <tr class="table-warning">
             <th>
-                Mã danh mục
+                STT
             </th>
             <th>
-                Tên danh mục
+                Họ tên
             </th>
             <th>
-                Mô tả
+                Email
             </th>
             <th>
-                Hình
+                Mật khẩu
             </th>
             <th></th>
         </tr>
@@ -44,28 +46,30 @@
                 cls = "table-primary";
             }
             <tr class="@cls">
+
                 <td>
-                    @Html.DisplayFor(modelItem => item.MaLoai)
+                    @i
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.TenLoai)
+                    @Html.DisplayFor(modelItem => item.HoTen)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.MoTa)
+                    @Html.DisplayFor(modelItem => item.Email)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Hinh)
+                    @Html.DisplayFor(modelItem => item.MatKhau)
                 </td>
                 <td>
-                    <a asp-action="SuaDanhMuc" asp-route-MaDM="@item.MaLoai">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.MaLoai">Details</a> |
-                    <a asp-action="XoaDanhMuc" asp-route-MaDM="@item.MaLoai">Delete</a>
+                    <a asp-action="SuaNhanVien" asp-route-id="@item.MaNv">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.MaNv">Details</a> |
+                    <a asp-action="XoaNhanVien" asp-route-id="@item.MaNv">Delete</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
-@Html.PagedListPager(Model, page => Url.Action("DanhMucSanPham", new { page = page }), new PagedListRenderOptions
+
+@Html.PagedListPager(Model, page => Url.Action("DanhSachNhanVien", new { page = page }), new PagedListRenderOptions
 {
     LiElementClasses = new List<string> { "page-item" },
     PageClasses = new List<string> { "page-link"

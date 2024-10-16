@@ -329,6 +329,10 @@
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\To.gif"
     },
     {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\Tulanh2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Tulanh2.jpg"
+    },
+    {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\category1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\category1.jpg"
     },
@@ -353,6 +357,10 @@
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa4.jpg"
     },
     {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa5.jfif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa5.jfif"
+    },
+    {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa5.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa5.jpg"
     },
@@ -363,6 +371,14 @@
     {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa7.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa7.jpg"
+    },
+    {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dongho6.jfif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dongho6.jfif"
+    },
+    {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dongho7.jfif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dongho7.jfif"
     },
     {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat1.jpg",
@@ -393,6 +409,10 @@
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\maygiat7.jpg"
     },
     {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maytinhbang4.jfif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\maytinhbang4.jfif"
+    },
+    {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\noicom1.jpg"
     },
@@ -411,6 +431,10 @@
     {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom5.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\noicom5.jpg"
+    },
+    {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicomdien8.jfif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\noicomdien8.jfif"
     },
     {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat1.jpg",
@@ -459,6 +483,18 @@
     {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat9.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat9.jpg"
+    },
+    {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\tivi3.jfif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tivi3.jfif"
+    },
+    {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\tulanh1.jfif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tulanh1.jfif"
+    },
+    {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\tulanh4cua.htm",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tulanh4cua.htm"
     },
     {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\tv1.jpg",
