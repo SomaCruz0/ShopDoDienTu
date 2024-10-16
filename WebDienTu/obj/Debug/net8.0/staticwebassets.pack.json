@@ -1,2487 +1,2487 @@
 {
   "Files": [
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebDienTu.bundle.scp.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebDienTu.bundle.scp.css",
       "PackagePath": "staticwebassets\\WebDienTu.bundle.scp.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\1009.gif",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\1009.gif",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\1009.gif"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\21meTyhQebL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\21meTyhQebL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\21meTyhQebL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31EPGSm2s1L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31EPGSm2s1L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31EPGSm2s1L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31LAnW1JFqL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31LAnW1JFqL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31LAnW1JFqL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31TB6tC6BOL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31TB6tC6BOL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31TB6tC6BOL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31YOss-gC-L._AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31YOss-gC-L._AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31YOss-gC-L._AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31hCgES5GXL._AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31hCgES5GXL._AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31hCgES5GXL._AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31ioCUUFnoL.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31ioCUUFnoL.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31ioCUUFnoL.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31jsjfVfH9L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31jsjfVfH9L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31jsjfVfH9L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31ncPnMYCxL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31ncPnMYCxL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31ncPnMYCxL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31pAGovVENL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31pAGovVENL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31pAGovVENL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31pT+SdvQXL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31pT+SdvQXL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31pT+SdvQXL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31yxRemzRLL._SS350_ (1).jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\31yxRemzRLL._SS350_ (1).jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\31yxRemzRLL._SS350_ (1).jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41-yvkFqVZL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41-yvkFqVZL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41-yvkFqVZL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\410PjzqoC8L._AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\410PjzqoC8L._AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\410PjzqoC8L._AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\415cOCbey.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\415cOCbey.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\415cOCbey.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\415cOCbeyML.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\415cOCbeyML.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\415cOCbeyML.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\416OcTXFfeL._AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\416OcTXFfeL._AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\416OcTXFfeL._AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\416pdroSEkL.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\416pdroSEkL.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\416pdroSEkL.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\419WCoqfamL._AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\419WCoqfamL._AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\419WCoqfamL._AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41A9R5KXCXL._AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41A9R5KXCXL._AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41A9R5KXCXL._AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41BiMx1FKyL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41BiMx1FKyL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41BiMx1FKyL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41CIcYRxJKL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41CIcYRxJKL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41CIcYRxJKL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41G38jC0ajL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41G38jC0ajL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41G38jC0ajL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41GVLtgNngL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41GVLtgNngL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41GVLtgNngL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41IPLmZIKhL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41IPLmZIKhL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41IPLmZIKhL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41KALboJKuL.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41KALboJKuL.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41KALboJKuL.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41LMouG6j7L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41LMouG6j7L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41LMouG6j7L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41MJUdI2jdL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41MJUdI2jdL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41MJUdI2jdL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41Pg1ahql8L._AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41Pg1ahql8L._AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41Pg1ahql8L._AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41RxtSQOd2L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41RxtSQOd2L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41RxtSQOd2L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41TexqWVkHL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41TexqWVkHL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41TexqWVkHL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41V4Ds2PtZL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41V4Ds2PtZL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41V4Ds2PtZL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41WvZnGYUkL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41WvZnGYUkL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41WvZnGYUkL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41XX7Pi240L.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41XX7Pi240L.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41XX7Pi240L.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41Ymq8fjbOL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41Ymq8fjbOL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41Ymq8fjbOL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41Z43OmFHjL._SX342_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41Z43OmFHjL._SX342_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41Z43OmFHjL._SX342_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41ZE9SmWdzL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41ZE9SmWdzL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41ZE9SmWdzL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41brDHtPY9L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41brDHtPY9L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41brDHtPY9L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41iDo0HDhbL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41iDo0HDhbL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41iDo0HDhbL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41iji4-9UsL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41iji4-9UsL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41iji4-9UsL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41lffECD-sL._SY445_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41lffECD-sL._SY445_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41lffECD-sL._SY445_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41qfgTvFBwL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41qfgTvFBwL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41qfgTvFBwL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41qlcUEhNmL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41qlcUEhNmL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41qlcUEhNmL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41riQRGf-6L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41riQRGf-6L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41riQRGf-6L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41sd2DTD8EL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41sd2DTD8EL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41sd2DTD8EL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41sdBTtnUDL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41sdBTtnUDL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41sdBTtnUDL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41sl3FN6NpL.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41sl3FN6NpL.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41sl3FN6NpL.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41sw9ASUvBL._SX342_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41sw9ASUvBL._SX342_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41sw9ASUvBL._SX342_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41w4TlVPhGL.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41w4TlVPhGL.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41w4TlVPhGL.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41wHu2N4tVL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41wHu2N4tVL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41wHu2N4tVL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41yh1vBmqsL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41yh1vBmqsL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41yh1vBmqsL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41zxxR71G+L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\41zxxR71G+L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\41zxxR71G+L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51+4d3VBFvL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51+4d3VBFvL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51+4d3VBFvL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\513UnnRfFML._SL1001_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\513UnnRfFML._SL1001_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\513UnnRfFML._SL1001_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\515p1IeP0-L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\515p1IeP0-L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\515p1IeP0-L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\5195-l+nflL._AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\5195-l+nflL._AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\5195-l+nflL._AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51GBNkHO6vL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51GBNkHO6vL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51GBNkHO6vL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51JhyHtnEgL._SL1001_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51JhyHtnEgL._SL1001_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51JhyHtnEgL._SL1001_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51Lj5bxbNtL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51Lj5bxbNtL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51Lj5bxbNtL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51Z9tfgl4aL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51Z9tfgl4aL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51Z9tfgl4aL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51czOOat0OL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51czOOat0OL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51czOOat0OL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51l46qQB50L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51l46qQB50L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51l46qQB50L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51nukXFJLJL.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51nukXFJLJL.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51nukXFJLJL.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51pvLIvb6ZL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51pvLIvb6ZL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51pvLIvb6ZL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51s6pbRlNyL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51s6pbRlNyL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51s6pbRlNyL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51uJ-pWfc9L._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51uJ-pWfc9L._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51uJ-pWfc9L._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51vxcBS1sQL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51vxcBS1sQL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51vxcBS1sQL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51w+JqOnmSL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51w+JqOnmSL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51w+JqOnmSL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51y46IslQkL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51y46IslQkL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51y46IslQkL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51yomC0EodL._SL500_AA300_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\51yomC0EodL._SL500_AA300_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\51yomC0EodL._SL500_AA300_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\71bJrFAys9L._SL1280_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\71bJrFAys9L._SL1280_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\71bJrFAys9L._SL1280_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\71cBwWAgvIL._SL1430_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\71cBwWAgvIL._SL1430_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\71cBwWAgvIL._SL1430_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\816zGZv1ORL._SL1500_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\816zGZv1ORL._SL1500_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\816zGZv1ORL._SL1500_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\81Q1DvOnnoL._SL1500_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\81Q1DvOnnoL._SL1500_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\81Q1DvOnnoL._SL1500_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\81k1XbQ6nQL._SL1500_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\81k1XbQ6nQL._SL1500_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\81k1XbQ6nQL._SL1500_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\91FM0Hog9FL._SL1500_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\91FM0Hog9FL._SL1500_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\91FM0Hog9FL._SL1500_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\91JUBDf1jTL._AA1500_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\91JUBDf1jTL._AA1500_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\91JUBDf1jTL._AA1500_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\91T2BjUkYmL._SL1500_.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\91T2BjUkYmL._SL1500_.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\91T2BjUkYmL._SL1500_.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\Camera1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\Camera1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Camera1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\To.gif",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\To.gif",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\To.gif"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\category1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\category1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\category1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\category2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\category2.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\category2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa2.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa3.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa4.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa4.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa4.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa5.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa5.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa5.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa6.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa6.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa6.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa7.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\dieuhoa7.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dieuhoa7.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\maygiat1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat2.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\maygiat2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat3.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\maygiat3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat4.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat4.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\maygiat4.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat5.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat5.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\maygiat5.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat6.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat6.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\maygiat6.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat7.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\maygiat7.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\maygiat7.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\noicom1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom2.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\noicom2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom3.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\noicom3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom4.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom4.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\noicom4.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom5.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\noicom5.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\noicom5.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat10.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat10.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat10.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat11.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat11.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat11.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat12.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat12.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat12.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat2.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat3.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat4.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat4.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat4.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat5.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat5.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat5.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat6.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat6.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat6.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat7.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat7.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat7.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat8.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat8.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat8.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat9.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\quat9.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\quat9.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\tv1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\HangHoa\\tv1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tv1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\Author.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\Author.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Author.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\Penguins.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\Penguins.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\Penguins.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\android_300200.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\android_300200.png",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\android_300200.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\icons8-account-50.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\icons8-account-50.png",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\icons8-account-50.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\icons8-add-user-48.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\icons8-add-user-48.png",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\icons8-add-user-48.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\icons8-config-48.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\icons8-config-48.png",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\icons8-config-48.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\icons8-user-48.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\icons8-user-48.png",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\icons8-user-48.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\man.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\man.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\man.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\woman.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\woman.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\woman.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai11.jpeg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai11.jpeg",
       "PackagePath": "staticwebassets\\Hinh\\Loai11.jpeg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Accept.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Accept.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Accept.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Alarm.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Alarm.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Alarm.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Anchor.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Anchor.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Anchor.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Bell.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Bell.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Bell.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Best.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Best.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Best.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Billboard.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Billboard.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Billboard.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Bomb.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Bomb.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Bomb.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Brick house.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Brick house.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Brick house.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Bricks.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Bricks.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Bricks.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Buddy.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Buddy.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Buddy.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Certificate.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Certificate.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Certificate.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Dice.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Dice.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Dice.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Dollar.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Dollar.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Dollar.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Favourites.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Favourites.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Favourites.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Funny.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Funny.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Funny.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Heart.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Heart.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Heart.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Microsoft.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Microsoft.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Microsoft.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Unlock.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\Unlock.png",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\Unlock.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\agenda_1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loai\\agenda_1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\Loai\\agenda_1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Loaiimages.jpeg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Loaiimages.jpeg",
       "PackagePath": "staticwebassets\\Hinh\\Loaiimages.jpeg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\Acer_logo-300x300.gif",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\Acer_logo-300x300.gif",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\Acer_logo-300x300.gif"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\amd-logo.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\amd-logo.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\amd-logo.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\apple.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\apple.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\apple.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\branch1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch2.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\branch2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch3.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\branch3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch4.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch4.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\branch4.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch5.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch5.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\branch5.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch6.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\branch6.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\branch6.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\dell-logo.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\dell-logo.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\dell-logo.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\dell-logo2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\dell-logo2.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\dell-logo2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\hp-logo.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\hp-logo.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\hp-logo.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\intel-logo.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\intel-logo.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\intel-logo.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\motorola.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\motorola.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\motorola.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\nokia.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\nokia.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\nokia.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\samsung-logo-2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\samsung-logo-2.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\samsung-logo-2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\samsung.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\samsung.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\samsung.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\shopping_cart.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\shopping_cart.png",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\shopping_cart.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\sonny-ericsson.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\NhaCC\\sonny-ericsson.jpg",
       "PackagePath": "staticwebassets\\Hinh\\NhaCC\\sonny-ericsson.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\Others\\shopping_cart.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\Others\\shopping_cart.png",
       "PackagePath": "staticwebassets\\Hinh\\Others\\shopping_cart.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\divider.gif",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\divider.gif",
       "PackagePath": "staticwebassets\\Hinh\\divider.gif"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Accept.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Accept.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Accept.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Add to basket.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Add to basket.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Add to basket.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Add.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Add.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Add.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Address book.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Address book.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Address book.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Alarm.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Alarm.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Alarm.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Anchor.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Anchor.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Anchor.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Application form.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Application form.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Application form.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bar chart.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bar chart.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Bar chart.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Basket.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Basket.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Basket.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bell.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bell.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Bell.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Best.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Best.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Best.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Billboard.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Billboard.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Billboard.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bluetooth.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bluetooth.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Bluetooth.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bomb.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bomb.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Bomb.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Book.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Book.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Book.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bookmark.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bookmark.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Bookmark.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Box.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Box.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Box.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Boy.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Boy.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Boy.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Brick house.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Brick house.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Brick house.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bricks.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bricks.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Bricks.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Brief case.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Brief case.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Brief case.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Brightness.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Brightness.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Brightness.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bubble.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Bubble.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Bubble.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Buddy.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Buddy.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Buddy.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Cable.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Cable.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Cable.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Calculator.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Calculator.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Calculator.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Calendar.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Calendar.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Calendar.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Call.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Call.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Call.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Camera.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Camera.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Camera.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Card file.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Card file.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Card file.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Cash register.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Cash register.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Cash register.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Cat.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Cat.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Cat.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Certificate.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Certificate.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Certificate.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Clien list.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Clien list.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Clien list.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Clipboard.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Clipboard.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Clipboard.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Clock.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Clock.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Clock.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Closed door.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Closed door.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Closed door.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Closed folder.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Closed folder.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Closed folder.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Coin.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Coin.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Coin.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Coins.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Coins.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Coins.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Color wheel.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Color wheel.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Color wheel.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Comment.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Comment.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Comment.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Comments.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Comments.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Comments.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Company.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Company.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Company.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Computer.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Computer.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Computer.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Conference.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Conference.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Conference.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Connect.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Connect.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Connect.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Construction.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Construction.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Construction.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Contrast.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Contrast.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Contrast.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Control panel.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Control panel.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Control panel.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Create.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Create.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Create.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Database.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Database.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Database.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Date.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Date.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Date.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Delete.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Delete.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Delete.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Desktop.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Desktop.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Desktop.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Diagram.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Diagram.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Diagram.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Dice.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Dice.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Dice.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Disconnect.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Disconnect.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Disconnect.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Discussion.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Discussion.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Discussion.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Document.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Document.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Document.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Documents.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Documents.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Documents.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Dog.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Dog.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Dog.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Dollar.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Dollar.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Dollar.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Down.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Down.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Down.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Download.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Download.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Download.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Edit.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Edit.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Edit.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Euro.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Euro.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Euro.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Exit button.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Exit button.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Exit button.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Exit.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Exit.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Exit.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Favourites.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Favourites.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Favourites.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Fax.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Fax.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Fax.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Flash drive.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Flash drive.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Flash drive.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Flow block.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Flow block.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Flow block.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Free.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Free.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Free.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Friends.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Friends.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Friends.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Full basket.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Full basket.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Full basket.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Funny.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Funny.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Funny.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Game controller.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Game controller.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Game controller.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Gear.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Gear.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Gear.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Genealogy.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Genealogy.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Genealogy.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Gift.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Gift.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Gift.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Girl.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Girl.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Girl.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Globe.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Globe.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Globe.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Handshake.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Handshake.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Handshake.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Happy.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Happy.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Happy.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Hard disk.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Hard disk.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Hard disk.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Heart.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Heart.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Heart.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Help.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Help.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Help.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Hierarchy.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Hierarchy.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Hierarchy.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Home.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Home.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Home.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Hungup.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Hungup.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Hungup.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Industry.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Industry.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Industry.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Info.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Info.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Info.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Key.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Key.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Key.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Label.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Label.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Label.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Left.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Left.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Left.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Lego brick.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Lego brick.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Lego brick.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Letter.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Letter.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Letter.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\List.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\List.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\List.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Lists.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Lists.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Lists.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Lock.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Lock.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Lock.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Log out.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Log out.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Log out.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Login.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Login.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Login.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Logo.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Logo.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Logo.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Mail.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Mail.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Mail.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Microsoft.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Microsoft.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Microsoft.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Mobile phone.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Mobile phone.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Mobile phone.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Money.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Money.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Money.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Monitor.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Monitor.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Monitor.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Mouse.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Mouse.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Mouse.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Music.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Music.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Music.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\No.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\No.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\No.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Notes.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Notes.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Notes.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Numbered list.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Numbered list.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Numbered list.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\OK.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\OK.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\OK.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Online.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Online.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Online.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open door.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open door.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Open door.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open file.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open file.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Open file.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open folder.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open folder.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Open folder.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open letter.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open letter.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Open letter.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open lock.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Open lock.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Open lock.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Payment.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Payment.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Payment.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Peace.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Peace.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Peace.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Pets.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Pets.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Pets.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Phone.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Phone.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Phone.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Piggy bank.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Piggy bank.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Piggy bank.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Piggy.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Piggy.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Piggy.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Pointer.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Pointer.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Pointer.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Pound.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Pound.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Pound.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Price list.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Price list.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Price list.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Print preview.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Print preview.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Print preview.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Print.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Print.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Print.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Printer.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Printer.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Printer.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Problem.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Problem.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Problem.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Properties.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Properties.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Properties.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\RSS.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\RSS.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\RSS.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Red star.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Red star.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Red star.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Refresh.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Refresh.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Refresh.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Remove from basket.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Remove from basket.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Remove from basket.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Report.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Report.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Report.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Right.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Right.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Right.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Rouble.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Rouble.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Rouble.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Sad.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Sad.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Sad.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Safe.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Safe.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Safe.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Save as.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Save as.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Save as.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Save.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Save.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Save.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Scroll list.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Scroll list.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Scroll list.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Search.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Search.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Search.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Shield.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Shield.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Shield.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Smile.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Smile.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Smile.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Software.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Software.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Software.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Statistics.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Statistics.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Statistics.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Stop.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Stop.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Stop.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Task list.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Task list.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Task list.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Telephone.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Telephone.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Telephone.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Text.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Text.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Text.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Tick.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Tick.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Tick.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\To do list.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\To do list.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\To do list.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Trash.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Trash.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Trash.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Unknown person.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Unknown person.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Unknown person.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Unlock.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Unlock.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Unlock.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Unordered list.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Unordered list.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Unordered list.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Up.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Up.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Up.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Upload.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Upload.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Upload.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\User group.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\User group.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\User group.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\User.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\User.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\User.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Users.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Users.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Users.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Wallet.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Wallet.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Wallet.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Warning.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Warning.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Warning.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Weather.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Weather.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Weather.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Wireless.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Wireless.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Wireless.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Wizard.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Wizard.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Wizard.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Yen.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Yen.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Yen.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Yin-Yang.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Yin-Yang.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Yin-Yang.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Zoom in.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Zoom in.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom in.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Zoom out.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Zoom out.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom out.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Zoom.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\Zoom.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\Zoom.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\eng.gif",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\eng.gif",
       "PackagePath": "staticwebassets\\Hinh\\icons\\eng.gif"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\logo1.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\logo1.png",
       "PackagePath": "staticwebassets\\Hinh\\icons\\logo1.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\vit.gif",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\icons\\vit.gif",
       "PackagePath": "staticwebassets\\Hinh\\icons\\vit.gif"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\slides\\slider-1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\slides\\slider-1.jpg",
       "PackagePath": "staticwebassets\\Hinh\\slides\\slider-1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\slides\\slider-2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\slides\\slider-2.jpg",
       "PackagePath": "staticwebassets\\Hinh\\slides\\slider-2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\slides\\slider-3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\Hinh\\slides\\slider-3.jpg",
       "PackagePath": "staticwebassets\\Hinh\\slides\\slider-3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\.gitignore",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\.gitignore",
       "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
       "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\LICENSE",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\LICENSE",
       "PackagePath": "staticwebassets\\LayoutAdmin"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
       "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\README.md",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\README.md",
       "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
       "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\gulpfile.js",
       "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\index.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\index.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\package.json",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\package.json",
       "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
       "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\LayoutAdmin\\screenshot.jpg",
       "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\cart.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\cart.html",
       "PackagePath": "staticwebassets\\cart.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\checkout.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\checkout.html",
       "PackagePath": "staticwebassets\\checkout.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\contact.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\contact.html",
       "PackagePath": "staticwebassets\\contact.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\css\\site.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\css\\style.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\favicon.ico",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\brand-1.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\brand-1.png",
       "PackagePath": "staticwebassets\\img\\brand-1.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\brand-2.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\brand-2.png",
       "PackagePath": "staticwebassets\\img\\brand-2.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\brand-3.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\brand-3.png",
       "PackagePath": "staticwebassets\\img\\brand-3.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\brand-4.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\brand-4.png",
       "PackagePath": "staticwebassets\\img\\brand-4.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\brand-5.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\brand-5.png",
       "PackagePath": "staticwebassets\\img\\brand-5.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\brand-6.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\brand-6.png",
       "PackagePath": "staticwebassets\\img\\brand-6.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\category-4.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\category-4.jpg",
       "PackagePath": "staticwebassets\\img\\category-4.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\category-5.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\category-5.jpg",
       "PackagePath": "staticwebassets\\img\\category-5.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\category-6.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\category-6.jpg",
       "PackagePath": "staticwebassets\\img\\category-6.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\category-7.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\category-7.jpg",
       "PackagePath": "staticwebassets\\img\\category-7.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\category-8.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\category-8.jpg",
       "PackagePath": "staticwebassets\\img\\category-8.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\godaddy.svg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\godaddy.svg",
       "PackagePath": "staticwebassets\\img\\godaddy.svg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\logo.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\norton.svg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\norton.svg",
       "PackagePath": "staticwebassets\\img\\norton.svg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\payment-method.png",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\payment-method.png",
       "PackagePath": "staticwebassets\\img\\payment-method.png"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-1.jpg",
       "PackagePath": "staticwebassets\\img\\product-1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-10.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-10.jpg",
       "PackagePath": "staticwebassets\\img\\product-10.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-2.jpg",
       "PackagePath": "staticwebassets\\img\\product-2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-3.jpg",
       "PackagePath": "staticwebassets\\img\\product-3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-4.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-4.jpg",
       "PackagePath": "staticwebassets\\img\\product-4.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-5.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-5.jpg",
       "PackagePath": "staticwebassets\\img\\product-5.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-6.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-6.jpg",
       "PackagePath": "staticwebassets\\img\\product-6.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-7.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-7.jpg",
       "PackagePath": "staticwebassets\\img\\product-7.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-8.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-8.jpg",
       "PackagePath": "staticwebassets\\img\\product-8.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\product-9.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\product-9.jpg",
       "PackagePath": "staticwebassets\\img\\product-9.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\review-1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\review-1.jpg",
       "PackagePath": "staticwebassets\\img\\review-1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\review-2.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\review-2.jpg",
       "PackagePath": "staticwebassets\\img\\review-2.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\review-3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\review-3.jpg",
       "PackagePath": "staticwebassets\\img\\review-3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\slider-1.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\slider-1.jpg",
       "PackagePath": "staticwebassets\\img\\slider-1.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\slider-3.jpg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\slider-3.jpg",
       "PackagePath": "staticwebassets\\img\\slider-3.jpg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\img\\ssl.svg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\img\\ssl.svg",
       "PackagePath": "staticwebassets\\img\\ssl.svg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\index.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\js\\main.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\js\\site.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\easing\\easing.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\easing\\easing.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\ajax-loader.gif",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\lib\\slick\\ajax-loader.gif"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\config.rb",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\config.rb",
       "PackagePath": "staticwebassets\\lib\\slick\\config.rb"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\fonts\\slick.eot",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\fonts\\slick.eot",
       "PackagePath": "staticwebassets\\lib\\slick\\fonts\\slick.eot"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\fonts\\slick.svg",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\fonts\\slick.svg",
       "PackagePath": "staticwebassets\\lib\\slick\\fonts\\slick.svg"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\fonts\\slick.ttf",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\fonts\\slick.ttf",
       "PackagePath": "staticwebassets\\lib\\slick\\fonts\\slick.ttf"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\fonts\\slick.woff",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\lib\\slick\\fonts\\slick.woff"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick-theme.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick-theme.css",
       "PackagePath": "staticwebassets\\lib\\slick\\slick-theme.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick-theme.less",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick-theme.less",
       "PackagePath": "staticwebassets\\lib\\slick\\slick-theme.less"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick-theme.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick-theme.scss",
       "PackagePath": "staticwebassets\\lib\\slick\\slick-theme.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.css",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.css",
       "PackagePath": "staticwebassets\\lib\\slick\\slick.css"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.js",
       "PackagePath": "staticwebassets\\lib\\slick\\slick.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.less",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.less",
       "PackagePath": "staticwebassets\\lib\\slick\\slick.less"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.min.js",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.min.js",
       "PackagePath": "staticwebassets\\lib\\slick\\slick.min.js"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.scss",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\lib\\slick\\slick.scss",
       "PackagePath": "staticwebassets\\lib\\slick\\slick.scss"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\login.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\login.html",
       "PackagePath": "staticwebassets\\login.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\my-account.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\my-account.html",
       "PackagePath": "staticwebassets\\my-account.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\product-detail.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\product-detail.html",
       "PackagePath": "staticwebassets\\product-detail.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\product-list.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\product-list.html",
       "PackagePath": "staticwebassets\\product-list.html"
     },
     {
-      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\wishlist.html",
+      "Id": "D:\\NĂM 4\\CDIO4\\ShopDoDienTu\\WebDienTu\\wwwroot\\wishlist.html",
       "PackagePath": "staticwebassets\\wishlist.html"
     },
     {
