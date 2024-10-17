@@ -63,9 +63,9 @@
                 @Html.DisplayFor(modelItem => item.MaTrangThai)
             </td>
             <td>
-                <a asp-action="SuaHoaDon" asp-route-id="@item.MaHd">Edit</a> |
+                    <a asp-action="SuaHoaDon" asp-route-MaHD="@item.MaHd">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.MaHd">Details</a> |
-                <a asp-action="XoaHoaDon" asp-route-id="@item.MaHd">Delete</a>
+                    <a asp-action="XoaHoaDon" asp-route-MaHD="@item.MaHd">Delete</a>
             </td>
         </tr>
 }

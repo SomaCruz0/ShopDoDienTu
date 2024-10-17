@@ -197,11 +197,11 @@ namespace WebDienTu.Areas.Admin.Controllers
 
         [Route("XoaKhachHang")]
         [HttpGet]
-        public IActionResult XoaKhachHang(string MaSP)
+        public IActionResult XoaKhachHang(string MaKH)
         {
             TempData["Message"] = "";
 
-            db.Remove(db.KhachHangs.Find(MaSP));
+            db.Remove(db.KhachHangs.Find(MaKH));
             db.SaveChanges();
 
             TempData["Message"] = "Khách hàng đã được xóa";
@@ -329,8 +329,37 @@ namespace WebDienTu.Areas.Admin.Controllers
             return View(lst);
         }
 
+        [Route("SuaCTHD")]
+        [HttpGet]
+        public IActionResult SuaCTHD(int MaSP)
+        {
+            ViewBag.MaHd = new SelectList(db.HoaDons.ToList(), "MaHd", "HoTen");
+            var sanpham = db.ChiTietHds.Find(MaSP);
+            return View(sanpham);
+        }
+        [Route("SuaCTHD")]
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult SuaCTHD(ChiTietHd hd)
+        {
+            db.Entry(hd).State = EntityState.Modified;
+            db.SaveChanges();
+            return RedirectToAction("DSCTHD", "HomeAdmin");
+        }
 
-        
+        [Route("XoaCTHD")]
+        [HttpGet]
+        public IActionResult XoaCTHD(int MaCTHD)
+        {
+            TempData["Message"] = "";
+
+            db.Remove(db.ChiTietHds.Find(MaCTHD));
+            db.SaveChanges();
+
+            TempData["Message"] = "Hóa đơn đã được xóa";
+            return RedirectToAction("DSCTHD", "HomeAdmin");
+        }
+
         #endregion
     }
 }

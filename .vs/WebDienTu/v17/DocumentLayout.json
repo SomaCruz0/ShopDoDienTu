@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "D:\\study\\CDIO\\WebDienTu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\homeadmin\\dscthd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\homeadmin\\dscthd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\homeadmin\\danhsachnhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\homeadmin\\danhsachnhanvien.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|d:\\study\\cdio\\webdientu\\webdientu\\areas\\admin\\views\\homeadmin\\suahoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9434D1D8-98DB-47B9-B97E-2EEB870381E0}|WebDienTu\\WebDienTu.csproj|solutionrelative:webdientu\\areas\\admin\\views\\homeadmin\\suahoadon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,66 +47,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_LayoutAdmin.cshtml",
-              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AQIAANIAAAAAAAAAAAAAAOgAAACIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T19:29:05.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DSCTHD.cshtml",
-              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DSCTHD.cshtml",
-              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DSCTHD.cshtml",
-              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DSCTHD.cshtml",
-              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DSCTHD.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T19:24:59.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SuaHoaDon.cshtml",
-              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\SuaHoaDon.cshtml",
-              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\SuaHoaDon.cshtml",
-              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\SuaHoaDon.cshtml",
-              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\SuaHoaDon.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T19:22:09.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "HomeAdminController.cs",
               "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AQIAANMAAAAAAAAAAAAcwEMBAAAeAAAA",
+              "ViewState": "AQIAAPIAAAAAAAAAAAA7wAcBAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T19:15:46.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DanhSachNhanVien.cshtml",
-              "DocumentMoniker": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhSachNhanVien.cshtml",
-              "RelativeDocumentMoniker": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhSachNhanVien.cshtml",
-              "ToolTip": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhSachNhanVien.cshtml",
-              "RelativeToolTip": "WebDienTu\\Areas\\Admin\\Views\\HomeAdmin\\DanhSachNhanVien.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T19:15:19.651Z",
+              "WhenOpened": "2024-10-17T00:18:45.054Z",
               "EditorCaption": ""
             }
           ]

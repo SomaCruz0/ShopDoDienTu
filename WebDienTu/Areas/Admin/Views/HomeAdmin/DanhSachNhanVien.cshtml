@@ -60,9 +60,9 @@
                     @Html.DisplayFor(modelItem => item.MatKhau)
                 </td>
                 <td>
-                    <a asp-action="SuaNhanVien" asp-route-id="@item.MaNv">Edit</a> |
+                    <a asp-action="SuaNhanVien" asp-route-MaNV="@item.MaNv">Edit</a> |
                     <a asp-action="Details" asp-route-id="@item.MaNv">Details</a> |
-                    <a asp-action="XoaNhanVien" asp-route-id="@item.MaNv">Delete</a>
+                    <a asp-action="XoaNhanVien" asp-route-MaNV="@item.MaNv">Delete</a>
                 </td>
             </tr>
         }
