@@ -533,6 +533,10 @@
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\man.jpg"
     },
     {
+      "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\ssl.svg",
+      "PackagePath": "staticwebassets\\Hinh\\KhachHang\\ssl.svg"
+    },
+    {
       "Id": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\woman.jpg",
       "PackagePath": "staticwebassets\\Hinh\\KhachHang\\woman.jpg"
     },

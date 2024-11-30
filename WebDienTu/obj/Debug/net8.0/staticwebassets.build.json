@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KRU6rLnIj4IxyVAOzagJrm0hU76sSuKq980h1XiBdfw=",
+  "Hash": "8oldA1EYXWWC0K0guV9ohkEWZoHjoMoQFbWvsl1tE2M=",
   "Source": "WebDienTu",
   "BasePath": "_content/WebDienTu",
   "Mode": "Default",
@@ -6114,6 +6114,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\Penguins.jpg"
+    },
+    {
+      "Identity": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\ssl.svg",
+      "SourceId": "WebDienTu",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\",
+      "BasePath": "_content/WebDienTu",
+      "RelativePath": "Hinh/KhachHang/ssl.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Hinh\\KhachHang\\ssl.svg"
     },
     {
       "Identity": "D:\\study\\CDIO\\WebDienTu\\WebDienTu\\wwwroot\\Hinh\\KhachHang\\woman.jpg",
